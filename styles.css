@@ -74,3 +74,13 @@ li, ol, ul {
     padding: 60px 0 0 0;
 
   }
+
+  .sideTextRight {
+    font-size: 0.7em;
+    font-weight: 200;
+    color: #b8926a;
+    position: fixed;
+    top: 50%;
+    right: 0px;
+    transform: rotate(90deg);
+  }
